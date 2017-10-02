@@ -1,0 +1,10 @@
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+C:\Users\Harold\Desktop\UNI 2017 - 2018\OOP\Week 2\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb
